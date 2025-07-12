@@ -23,24 +23,6 @@ This repository contains C++ implementations of essential **Data Structures** us
 
 > Each program is coded in C++ and tested with sample inputs.
 
----
-
-## 📁 Folder Structure
-
-```
-
-Data-Structures/
-│
-├── Arrays/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-├── Searching/
-├── Sorting/
-├── Hashing/
-└── README.md
 
 ````
 
